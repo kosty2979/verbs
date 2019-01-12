@@ -1,0 +1,5 @@
+export const SET_TO_TEST='SET_TO_TEST';
+export const SET_SELECT='SET_SELECT';
+export const SET_FROM_BOOK='SET_FROM_BOOK';
+export const INCREASE_COUNT='INCREASE_COUNT';
+export const RESET_COUNT='RESET_COUNT';

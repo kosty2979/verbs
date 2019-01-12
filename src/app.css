@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+input.error {
+    border: 1px solid red
+}
+
+
+tbody tr:hover {
+    background-color: #5bc0de !important;
+}
+
+.btn {
+    margin: 0 3px;
+}
+
+.divider {
+    border-bottom: 1px solid grey;
+}
+
+.sliderWrapper {
+    width: 220px;
+    float: right;
+    padding: 5px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+}
+
+.formText p {
+    margin: 0;
+    font-size: 12px;
+}
+
+.panel-heading {
+    padding: 0;
+}
+
+.panel-heading a {
+    position: relative;
+    padding: 0 15px;
+    margin: 0;
+    line-height: 2;
+    display: inline-block;
+    color: grey;
+    float: left;
+}
+
+.panel-heading a.active {
+    color: black;
+    font-weight: bold;
+    background-color: lightgray;
+}
+
+.panel-heading a:after {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 1;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    border-right: 1px solid;
+}
