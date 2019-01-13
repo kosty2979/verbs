@@ -325,7 +325,7 @@ export const Verbs =  [
         third: 'run'
     },
     {
-        translate: 'Говорить',
+        translate: 'Сказать',
         first: 'say',
         second: 'said',
         third: 'said'
@@ -439,7 +439,7 @@ export const Verbs =  [
         third: 'smelt'
     },
     {
-        translate: 'Говорить',
+        translate: 'Разговаривать',
         first: 'speak',
         second: 'spoke',
         third: 'spoken'
